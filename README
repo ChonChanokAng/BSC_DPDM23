@@ -10,26 +10,58 @@ Quiz (เดี่ยว ถามในห้อง) 10%
 Github 5%
 Final Score = Score * %attendance
 
-Homework 1
-กลุ่ม หอยหลอดด MEMBERS
-643021260-7 นางสาวกิติลักษณ์ ลาดโฮม
-643021261-5 นางสาวจารุพร การร้อย
-643021263-1 นางสาวชนม์ชนก อังคุระษี
-643021266-5 นางสาวธิติพร ใจเอื้อ
-Code Homework 1 : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/Freq_HW1.ipynb
-PRESENTATION : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/HW1-%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf
+All Code in Class
+  Understanding_Data : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/Understanding_Data.ipynb
+  Data_Preprocessing : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/Data_Preprocessing.ipynb
+  Dimensionality_Reduction_PCA : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/Dimensionality_Reduction_PCA.ipynb
+  Frequent_Patterns_(Association_Rules) : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb
+  Classification : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/Classification.ipynb
 
-Homework 2 : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/HW2.pdf
+Homework 1 Association rules
+  กลุ่ม หอยหลอดด MEMBERS
+      643021260-7 นางสาวกิติลักษณ์ ลาดโฮม
+      643021261-5 นางสาวจารุพร การร้อย
+      643021263-1 นางสาวชนม์ชนก อังคุระษี
+      643021266-5 นางสาวธิติพร ใจเอื้อ
+  Code Homework 1 : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/Freq_HW1.ipynb
+  PRESENTATION : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/HW1-%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf
 
-Homework 3
+Homework 2 Descision tree
+  File Homework 2 : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/HW2.pdf
+
+Homework 3 Descision tree Criterion & Max_Leaf_Nodes (Code)
+  กลุ่ม หอยหลอดด & กลุ่มกลุ้ม MEMBERS
+      643020501-6 นายตะวัน เบ้าหล่อเพชร
+      643021260-7 นางสาวกิติลักษณ์ ลาดโฮม
+      643021261-5 นางสาวจารุพร การร้อย
+      643021263-1 นางสาวชนม์ชนก อังคุระษี
+      643021265-7 นายธนาธิป อินทรคีรี
+      643021266-5 นางสาวธิติพร ใจเอื้อ
+      643021268-1 นายพุทธิพงศ์ ยางนอก
+      643021273-8 นายศตวรรษ มูลสันเทียะ
+  Code Homework 3 : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/Classification.ipynb
+  PRESENTATION : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/HW3_Decision%20Tree_Presentation.pdf
+
+Homework 4 Descision tree Criterion & Max_Leaf_Nodes (คำนวณมือ)
 กลุ่ม หอยหลอดด & กลุ่มกลุ้ม MEMBERS
-643020501-6 นายตะวัน เบ้าหล่อเพชร
-643021260-7 นางสาวกิติลักษณ์ ลาดโฮม
-643021261-5 นางสาวจารุพร การร้อย
-643021263-1 นางสาวชนม์ชนก อังคุระษี
-643021265-7 นายธนาธิป อินทรคีรี
-643021266-5 นางสาวธิติพร ใจเอื้อ
-643021268-1 นายพุทธิพงศ์ ยางนอก
-643021273-8 นายศตวรรษ มูลสันเทียะ
-Code Homework 3 : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/Classification.ipynb
-PRESENTATION : 
+    643020501-6 นายตะวัน เบ้าหล่อเพชร
+    643021260-7 นางสาวกิติลักษณ์ ลาดโฮม
+    643021261-5 นางสาวจารุพร การร้อย
+    643021263-1 นางสาวชนม์ชนก อังคุระษี
+    643021265-7 นายธนาธิป อินทรคีรี
+    643021266-5 นางสาวธิติพร ใจเอื้อ
+    643021268-1 นายพุทธิพงศ์ ยางนอก
+    643021273-8 นายศตวรรษ มูลสันเทียะ
+File Homework 4 : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/HW4_criterionmax-leaf-nodes.pdf
+PRESENTATION : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/HW4_Decision%20Tree_Presentation.pdf
+
+Homework 5 Perceptron
+  File Homework 5 : https://github.com/ChonChanokAng/BSC_DPDM23/blob/main/HW5.pdf
+
+Quize
+  Quize 8 : 
+
+
+
+
+
